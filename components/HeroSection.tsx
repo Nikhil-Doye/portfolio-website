@@ -14,7 +14,7 @@ export default function HeroSection() {
         Nikhil Doye
           <br />
         Data Scientist | Machine Learning Engineer | AI Enthusiast
-        <p className="text-xl mb-8">
+        <p className="text-xl mb-8 mt-8">
           Transforming Data into Insights
         </p>
           </motion.h1>
