@@ -11,7 +11,8 @@ export default function HeroSection() {
           transition={{ duration: 0.6 }}
           className="text-5xl font-bold mb-4"
         >
-        Nikhil Doye /n
+        Nikhil Doye
+          <br />
         Data Scientist | Machine Learning Engineer | AI Enthusiast
         <p className="text-xl mb-8">
           Transforming Data into Insights
