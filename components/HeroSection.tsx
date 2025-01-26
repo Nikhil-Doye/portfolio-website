@@ -11,10 +11,13 @@ export default function HeroSection() {
           transition={{ duration: 0.6 }}
           className="text-5xl font-bold mb-4"
         >
-          Transforming Data into Insights
+          Nikhil Doye
         </motion.h1>
         <p className="text-xl mb-8">
           Data Scientist | Machine Learning Engineer | AI Enthusiast
+        </p>
+        <p className="text-xl mb-8">
+          Transforming Data into Insights
         </p>
         <div className="flex justify-center space-x-4 mt-6">
           <a href="https://github.com/yourusername" className="hover:text-primary transition-colors">
