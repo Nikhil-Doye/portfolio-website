@@ -14,7 +14,7 @@ export default function ContactSection() {
           Feel free to reach out to me via email. I'll get back to you as soon as possible!
         </p>
         <a
-          href="mailto:your-email@example.com?subject=Portfolio%20Contact"
+          href="mailto:doye.n@northeastern.edu?subject=Portfolio%20Contact"
           className="inline-block bg-primary text-white px-6 py-3 rounded hover:bg-secondary transition-colors"
         >
           Send Email
