@@ -2,10 +2,10 @@ import { motion } from 'framer-motion'
 
 const testimonials = [
   {
-    name: 'John Doe',
-    role: 'CEO at Company',
-    text: 'Amazing work! Delivered exactly what we needed on time and with great quality.',
-    image: '/images/testimonials/john.jpg'
+    name: 'Abhijit Pal',
+    role: 'AI Engineer at Nextiva',
+    text: "I  had the pleasure of working with Nikhil at LTI for over a year, and I can confidently say that he is a great coworker to have. Nikhil's positive attitude and collaborative approach make him not just a valuable colleague but also a team player who contributes to a positive work environment. His excellent communication skills and willingness to go the extra mile significantly contributed to the success of our tasks. He demonstrated great proficiency in various web development technologies.",
+    image: '/images/testimonials/abhijit.jpg'
   },
   // Add more testimonials
 ]
