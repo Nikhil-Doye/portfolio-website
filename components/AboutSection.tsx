@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 export default function AboutSection() {
   return (
     <section id="about" className="py-20">
-      <motion.div
+      <motion.section
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
@@ -19,7 +19,7 @@ Beyond my professional endeavors, I’m deeply committed to advancing the field 
 
 When I’m not coding or experimenting with data, you’ll find me reading about psychology and neuroscience(A big admirer of Andrew Huberman) and exploring new cuisines.
         </p>
-      </motion.div>
+      </motion.section>
     </section>
   )
 }
