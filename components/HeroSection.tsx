@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
     <section className="min-h-screen flex items-center">
       <div className="text-center w-full">
-        <motion.h1 
+        <motion.div 
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
@@ -17,7 +17,7 @@ export default function HeroSection() {
         <p className="text-xl mb-8 mt-8">
           Transforming Data into Insights
         </p>
-          </motion.h1>
+          </motion.div>
         <div className="flex justify-center space-x-4 mt-6">
           <a href="https://github.com/yourusername" className="hover:text-primary transition-colors">
             <FaGithub size={32} />
